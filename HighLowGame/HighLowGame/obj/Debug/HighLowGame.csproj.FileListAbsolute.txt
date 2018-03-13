@@ -1,0 +1,6 @@
+C:\TFS\MIS220\JParker18\HighLowGame\HighLowGame\bin\Debug\HighLowGame.exe.config
+C:\TFS\MIS220\JParker18\HighLowGame\HighLowGame\bin\Debug\HighLowGame.exe
+C:\TFS\MIS220\JParker18\HighLowGame\HighLowGame\bin\Debug\HighLowGame.pdb
+C:\TFS\MIS220\JParker18\HighLowGame\HighLowGame\obj\Debug\HighLowGame.csproj.CoreCompileInputs.cache
+C:\TFS\MIS220\JParker18\HighLowGame\HighLowGame\obj\Debug\HighLowGame.exe
+C:\TFS\MIS220\JParker18\HighLowGame\HighLowGame\obj\Debug\HighLowGame.pdb
