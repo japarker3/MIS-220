@@ -1,0 +1,7 @@
+C:\TFS\MIS220\JParker18\FourSpinners\FourSpinners\bin\Debug\FourSpinners.exe.config
+C:\TFS\MIS220\JParker18\FourSpinners\FourSpinners\bin\Debug\FourSpinners.exe
+C:\TFS\MIS220\JParker18\FourSpinners\FourSpinners\bin\Debug\FourSpinners.pdb
+C:\TFS\MIS220\JParker18\FourSpinners\FourSpinners\obj\Debug\FourSpinners.csprojResolveAssemblyReference.cache
+C:\TFS\MIS220\JParker18\FourSpinners\FourSpinners\obj\Debug\FourSpinners.csproj.CoreCompileInputs.cache
+C:\TFS\MIS220\JParker18\FourSpinners\FourSpinners\obj\Debug\FourSpinners.exe
+C:\TFS\MIS220\JParker18\FourSpinners\FourSpinners\obj\Debug\FourSpinners.pdb
