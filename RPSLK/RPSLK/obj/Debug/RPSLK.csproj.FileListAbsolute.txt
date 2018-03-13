@@ -1,0 +1,7 @@
+C:\TFS\MIS220\JParker18\RPSLK\RPSLK\bin\Debug\RPSLK.exe.config
+C:\TFS\MIS220\JParker18\RPSLK\RPSLK\bin\Debug\RPSLK.exe
+C:\TFS\MIS220\JParker18\RPSLK\RPSLK\bin\Debug\RPSLK.pdb
+C:\TFS\MIS220\JParker18\RPSLK\RPSLK\obj\Debug\RPSLK.csproj.CoreCompileInputs.cache
+C:\TFS\MIS220\JParker18\RPSLK\RPSLK\obj\Debug\RPSLK.exe
+C:\TFS\MIS220\JParker18\RPSLK\RPSLK\obj\Debug\RPSLK.pdb
+C:\TFS\MIS220\JParker18\RPSLK\RPSLK\obj\Debug\RPSLK.csprojResolveAssemblyReference.cache

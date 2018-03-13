@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSLK", "RPSLK\RPSLK.csproj", "{891365B9-AE9A-4AF9-B527-C3245A60381D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891365B9-AE9A-4AF9-B527-C3245A60381D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891365B9-AE9A-4AF9-B527-C3245A60381D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891365B9-AE9A-4AF9-B527-C3245A60381D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891365B9-AE9A-4AF9-B527-C3245A60381D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890E637C-F55E-4346-A5C3-88D06269ECEC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://itic-tfs-app.eil-server.cba.ua.edu/tfs/mis220
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RPSLK\\RPSLK.csproj
+		SccProjectName1 = RPSLK
+		SccLocalPath1 = RPSLK
+	EndGlobalSection
+EndGlobal
