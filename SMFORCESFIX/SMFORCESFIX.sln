@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMFORCESFIX", "SMFORCESFIX.csproj", "{EDABB90A-FDB0-4666-A0CB-7CBFE04E4BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDABB90A-FDB0-4666-A0CB-7CBFE04E4BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDABB90A-FDB0-4666-A0CB-7CBFE04E4BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDABB90A-FDB0-4666-A0CB-7CBFE04E4BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDABB90A-FDB0-4666-A0CB-7CBFE04E4BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB149706-5FA1-44A2-AE39-FC36256DAD6E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://itic-tfs-app.eil-server.cba.ua.edu/tfs/mis220
+		SccProjectUniqueName0 = SMFORCESFIX.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://itic-tfs-app.eil-server.cba.ua.edu/tfs/mis220
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
