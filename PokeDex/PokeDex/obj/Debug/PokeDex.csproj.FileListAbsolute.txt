@@ -1,0 +1,10 @@
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\bin\Debug\PokeDex.exe.config
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\bin\Debug\PokeDex.exe
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\bin\Debug\PokeDex.pdb
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\obj\Debug\PokeDex.csprojResolveAssemblyReference.cache
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\obj\Debug\PokeDex.frmMain.resources
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\obj\Debug\PokeDex.Properties.Resources.resources
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\obj\Debug\PokeDex.csproj.GenerateResource.Cache
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\obj\Debug\PokeDex.csproj.CoreCompileInputs.cache
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\obj\Debug\PokeDex.exe
+C:\TFS\MIS220\JParker18\PokeDex\PokeDex\obj\Debug\PokeDex.pdb
