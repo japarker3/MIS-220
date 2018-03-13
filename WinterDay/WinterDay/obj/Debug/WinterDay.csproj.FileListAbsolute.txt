@@ -1,0 +1,7 @@
+C:\TFS\MIS220\JParker18\WinterDay\WinterDay\bin\Debug\WinterDay.exe.config
+C:\TFS\MIS220\JParker18\WinterDay\WinterDay\bin\Debug\WinterDay.exe
+C:\TFS\MIS220\JParker18\WinterDay\WinterDay\bin\Debug\WinterDay.pdb
+C:\TFS\MIS220\JParker18\WinterDay\WinterDay\obj\Debug\WinterDay.csprojResolveAssemblyReference.cache
+C:\TFS\MIS220\JParker18\WinterDay\WinterDay\obj\Debug\WinterDay.csproj.CoreCompileInputs.cache
+C:\TFS\MIS220\JParker18\WinterDay\WinterDay\obj\Debug\WinterDay.exe
+C:\TFS\MIS220\JParker18\WinterDay\WinterDay\obj\Debug\WinterDay.pdb
